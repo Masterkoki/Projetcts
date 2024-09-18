@@ -21,6 +21,10 @@ Le jeu Tokaido est un jeu où les joueurs voyagent sur une route historique japo
 Langage : Python
 Interface graphique : Pygame
 
+![image](https://github.com/user-attachments/assets/7e6eafab-9c90-422b-b60c-15dbaf188cc6)
+
+
+
 ## Comment utiliser le projet
 
 1. Cloner le dépôt.
