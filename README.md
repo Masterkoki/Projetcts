@@ -1,4 +1,4 @@
-# Tokaido - Jeu de société en Python
+# Tokaido - board game in Python
 
 * Description
   
