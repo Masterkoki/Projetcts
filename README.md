@@ -11,11 +11,11 @@ Le jeu Tokaido est un jeu où les joueurs voyagent sur une route historique japo
 
 * Fonctionnalités
   
--Reproduction fidèle des mécaniques de jeu du jeu de société Tokaido.
--Interface graphique interactive, conçue pour offrir une expérience immersive.
--Gestion des joueurs, des cartes et des actions.
--Système de score basé sur les découvertes et actions des joueurs.
--Support de plusieurs joueurs (humains).
+- Reproduction fidèle des mécaniques de jeu du jeu de société Tokaido.
+- Interface graphique interactive, conçue pour offrir une expérience immersive.
+- Gestion des joueurs, des cartes et des actions.
+- Système de score basé sur les découvertes et actions des joueurs.
+- Support de plusieurs joueurs (humains).
 
 * Technologies utilisées
 Langage : Python
